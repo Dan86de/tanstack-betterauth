@@ -27,3 +27,4 @@ storybook-static/
 .directory
 *~
 .DS_Store
+.zed
